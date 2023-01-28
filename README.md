@@ -3,7 +3,7 @@ Longhorn Sidebar for Rainmeter
 ![Preview](https://github.com/fediaFedia/Longhorn/blob/main/preview.jpg)
 
 ---------------
-Can't beleive nobody made a proper Longhorn Sidebar for Rainmeter.
+Can't believe nobody made a proper Longhorn Sidebar for Rainmeter.
 So here it is!
 A modernized, yet nostalgic Sidebar with lots of great features and skins...
 
