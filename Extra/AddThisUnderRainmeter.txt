@@ -1,0 +1,5 @@
+[TrayMeasure]
+Measure=Calc
+Formula=1
+TrayMeter=Bitmap
+TrayBitmap=Longhorn\Extra\Icons\100.ico
