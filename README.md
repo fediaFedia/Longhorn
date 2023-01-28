@@ -8,7 +8,9 @@ So here it is!
 
 BUGS & TRANSLATIONS
 ----
-TBA
+If you find any bugs just let me know in a comment or something.
+Technically this thing supports multiple languages, you need to edit English.inc and replace it with your values.
+I started a few languages already but then I got lazy.
 
 LICENSE
 -------
