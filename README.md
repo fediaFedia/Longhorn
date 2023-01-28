@@ -6,6 +6,9 @@ Longhorn Sidebar for Rainmeter
 Can't beleive nobody made a proper Longhorn Sidebar for Rainmeter.
 So here it is!
 
+![Skins](https://github.com/fediaFedia/Longhorn/blob/main/preview-skins.jpg)
+![Parts](https://github.com/fediaFedia/Longhorn/blob/main/preview-parts.png)
+
 BUGS & TRANSLATIONS
 ----
 If you find any bugs just let me know in a comment or something.
