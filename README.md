@@ -1,6 +1,6 @@
 Longhorn Sidebar for Rainmeter
 =======================
-![Preview](https://github.com/fediaFedia/Longhorn_Sidebar_for_Rainmeter/blob/main/Preview.png)
+![Preview](https://github.com/fediaFedia/Longhorn/Preview.jpg)
 
 ---------------
 Can't beleive nobody made a proper Longhorn Sidebar for Rainmeter.
