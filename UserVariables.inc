@@ -1,10 +1,10 @@
 [Variables]
 SidebarStyle=Hillel
 Blur=1
-RSSMain=
 DisableNews=
 DateLayout=
 Opacity=255
 SeparatorStyle=Longhorn
 ScaleDpi=1
-movewhere=155
+MoveWhere=155
+MoveClock=#workareawidth#-#clockWidth#
