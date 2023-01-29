@@ -7,4 +7,5 @@ Opacity=255
 SeparatorStyle=Longhorn
 ScaleDpi=1
 MoveWhere=155
-MoveClock=#workareawidth#-#clockWidth#
+MoveClock=#workareawidth#-#ClockWidth#
+SidebarWidth=200

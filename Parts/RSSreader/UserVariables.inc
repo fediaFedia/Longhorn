@@ -9,5 +9,5 @@ RSS4=http://rss.cnn.com/rss/edition.rss
 RSS4Name=CNN News
 RSS5=http://www.engadget.com/rss.xml
 RSS5Name=Engadget
-RSSMain=https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
-RSSMainName=DW
+RSSMain=http://feeds.bbci.co.uk/news/rss.xml?edition=int
+RSSMainName=BBC

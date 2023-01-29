@@ -78,5 +78,5 @@ ImageTint=#textcolor2#,50
 X=(5-#Padding#)
 Y=(5-#Padding#)
 W=(#Height#+(#Padding#*2))*#ScaleDpi#
-H=(#Height#/2-(5-#Padding#)+(#Padding#))*#ScaleDpi#
+H=(#Height#/4-(5-#Padding#)+(#Padding#))*#ScaleDpi#
 AntiAlias=1
