@@ -3,12 +3,31 @@ Longhorn Sidebar for Rainmeter
 ![Preview](https://github.com/fediaFedia/Longhorn/blob/main/preview.jpg)
 
 ---------------
-Can't beleive nobody made a proper Longhorn Sidebar for Rainmeter.
+Can't believe nobody made a proper Longhorn Sidebar for Rainmeter.
 So here it is!
+A modernized, yet nostalgic Sidebar with lots of great features and skins...
+
+FEATURES:
+----
+Some of the included Skins from the Classics:
+![Skins](https://github.com/fediaFedia/Longhorn/blob/main/preview-skins.jpg)
+
+You'll find almost every Part you may want:
+![Parts](https://github.com/fediaFedia/Longhorn/blob/main/preview-parts.png)
+
+- Ability to position on the Right or on the Left
+- Includes an option to scale it up: 100%, 150% and 200% for HDPI Displays
+- Easy Snapping
+- Super easy Customization
+- Lots of Variants in every Widget
+- Big Clock Calendar
+- Possible future Translations
 
 BUGS & TRANSLATIONS
 ----
-TBA
+If you find any bugs just let me know in a comment or something.
+Technically this thing supports multiple languages, you need to edit English.inc and replace it with your values.
+I started a few languages already but then I got lazy.
 
 LICENSE
 -------
