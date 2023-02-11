@@ -26,8 +26,8 @@ FontSize=(10)*#scaledpi#
 StringAlign=LEFT
 AntiAlias=1
 InlineSetting=Shadow | 1 | 1 | 2 | 0,0,0,255
-MouseOverAction=[!SetOption #CURRENTSECTION# FontColor #textcolor2#,255][!Update]
-MouseLeaveAction=[!SetOption #CURRENTSECTION# FontColor #textcolor2#,225][!Update]
+MouseOverAction=[!SetOption #CURRENTSECTION# FontColor #textcolor2#,255][!SetOption #CURRENTSECTION# InlineSetting "Shadow | 0 | 0 | 4 | 255,255,255,255"][!Update]
+MouseLeaveAction=[!SetOption #CURRENTSECTION# FontColor #textcolor2#,225][!SetOption #CURRENTSECTION# InlineSetting "Shadow | 1 | 1 | 2 | 0,0,0,255"][!Update]
 
 [Small]
 FontColor=#textcolor2#,100

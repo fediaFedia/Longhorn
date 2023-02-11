@@ -11,5 +11,6 @@ MoveClock=#workareawidth#-#clockWidth#
 SidebarWidth=200
 TintOpacity=1
 TintColor=4,222,193
-ReserveScreenSpace=0
+ReserveScreenSpace=3
 RefreshOnResChange=0
+SidebarLeft=1

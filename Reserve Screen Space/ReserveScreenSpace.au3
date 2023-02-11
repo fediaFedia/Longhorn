@@ -5,15 +5,18 @@
 ; Credits to guinness for coming up with this script
 
 
-Global $sidebarWidth
+Global $sidebarWidth, $scaleDpi
 
-If $CmdLine[0] = 0 Then
-;MsgBox(64, "Result", "No variable was found.")
-$sidebarWidth = 0;
-Else
-;MsgBox(64, "Variable", $CmdLine[1])
+
+
+If $CmdLine[0] = 2 Then
 $sidebarWidth = $CmdLine[1];
+$scaleDpi = $CmdLine[2];
+Else
+$sidebarWidth = 0;
+$scaleDpi = 1;
 EndIf
+
 
 Example()
 
@@ -21,12 +24,12 @@ Example()
 Func Example()
     ; Set the working area of the Desktop, in this case 120px to the left and retaining the same height and width.
 
-    Local $aWorkingArea = _WorkingArea(0, Default, @DeskTopWidth-$sidebarWidth, Default)
+    Local $aWorkingArea = _WorkingArea(0, Default, @DeskTopWidth-$sidebarWidth*$scaleDpi, Default)
 	;width, height; x; y
 
     ; Create the GUI.
 	; $WS_EX_LAYERED
-    Local $hGUI = GUICreate('', $sidebarWidth, $aWorkingArea[1], @DeskTopWidth-$sidebarWidth, $aWorkingArea[3], $WS_POPUP, $WS_EX_LAYERED)
+    Local $hGUI = GUICreate('', $sidebarWidth * $scaleDpi, $aWorkingArea[1], @DeskTopWidth-$sidebarWidth * $scaleDpi, $aWorkingArea[3], $WS_POPUP, $WS_EX_LAYERED)
     GUISetState(@SW_SHOW, $hGUI)
     Exit
     While 1
