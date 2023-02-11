@@ -15,3 +15,16 @@ App4Icon=4.png
 App4Name=Twitter
 App4Location=https://twitter.com
 
+App5Icon=5.png
+App5Name=Reddit
+App5Location=https://reddit.com
+
+
+App6Icon=6.png
+App6Name=Digg
+App6Location=https://digg.com
+
+
+App7Icon=7.png
+App7Name=Episode Calendar
+App7Location=https://episodecalendar.com/en/calendar

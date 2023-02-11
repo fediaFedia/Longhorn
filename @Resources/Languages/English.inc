@@ -106,3 +106,4 @@ ClearTasks=Clear Tasks
 AddAnotherHDD=Add Another Disk
 AlignSidebarLeft=Align Sidebar to the Left
 AlignSidebarRight=Align Sidebar to the Right
+Welcome=Welcome

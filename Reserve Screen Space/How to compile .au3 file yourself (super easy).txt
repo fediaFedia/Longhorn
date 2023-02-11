@@ -1,0 +1,14 @@
+Alright so maybe you don't want to run some random *.exe file you downloaded from the internet.
+
+Good for you for being vigilant, there's viruses out there.
+So here's how to compile it yourself from the source code:
+
+Download AutoIT: 
+
+https://www.autoitscript.com/site/autoit/downloads/
+
+Install it (The irony, I know)
+Open the SelectAppIco.au3 file with it and select in the Menubar: Tools > GO
+
+The exe file should be in the folder now.
+That's it!

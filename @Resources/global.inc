@@ -29,6 +29,13 @@ InlineSetting=Shadow | 1 | 1 | 2 | 0,0,0,255
 MouseOverAction=[!SetOption #CURRENTSECTION# FontColor #textcolor2#,255][!Update]
 MouseLeaveAction=[!SetOption #CURRENTSECTION# FontColor #textcolor2#,225][!Update]
 
+[Small]
+FontColor=#textcolor2#,100
+FontSize=(8)*#scaledpi#
+InlineSetting=Shadow | 1 | 1 | 2 | 0,0,0,255
+MouseOverAction=[!SetOption #CURRENTSECTION# FontColor #textcolor2#,200][!Update]
+MouseLeaveAction=[!SetOption #CURRENTSECTION# FontColor #textcolor2#,100][!Update]
+
 
 [SmallIcon]
 MouseActionCursor=1

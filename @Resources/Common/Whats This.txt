@@ -1,5 +1,0 @@
-Omnimo App was originally built for Omnimo as it includes some neat tools and helper utilities.
-I didn't re-compile it for Longhorn because trigger happy antiviruses like to delete anything they haven't seen before.
-As this App has been around for years it is now mostly "trusted" so it doesn't get nuked.
-
-Here's the source code if you're concerned: https://github.com/fediaFedia/Omnimo/blob/master/AutoIT/OmnimoApp.au3
