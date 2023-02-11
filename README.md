@@ -7,7 +7,7 @@ Can't believe nobody made a proper Longhorn Sidebar for Rainmeter.
 So here it is!
 A modernized, yet nostalgic Sidebar with lots of great features and skins...
 
-FEATURES:
+FEATURES (Updated to version 2!):
 ----
 Some of the included Skins from the Classics:
 ![Skins](https://github.com/fediaFedia/Longhorn/blob/main/preview-skins.jpg)
@@ -16,12 +16,16 @@ You'll find almost every Part you may want:
 ![Parts](https://github.com/fediaFedia/Longhorn/blob/main/preview-parts.png)
 
 - Ability to position on the Right or on the Left
+- Option to stay on top of other Windows (Reserve screen space)
+- Auto-layout on screen resolution change
 - Includes an option to scale it up: 100%, 150% and 200% for HDPI Displays
 - Easy Snapping
+- Blur Effect on Win10 / Win11
 - Super easy Customization
 - Lots of Variants in every Widget
 - Big Clock Calendar
 - Possible future Translations
+- Create your own Part using included Parts\Template
 
 BUGS & TRANSLATIONS
 ----
@@ -40,3 +44,4 @@ Images and Media
 CREDITS
 ------
 Thank you to MrLapinou for Longhorn Research
+Credits to guinness for coming up with the reserve screen space AutoIt Script
