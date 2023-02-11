@@ -1,5 +1,5 @@
 [Variables]
-Version=1.0
+Version=2.0
 MainLanguage=English
 Language=en-GB
 globalblurenable=0
