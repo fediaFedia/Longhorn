@@ -14,6 +14,8 @@ Some of the included Skins from the Classics:
 
 You'll find almost every Part you may want:
 
+Preview|Name|Features|Alternatives
+|-|-|-|-|
 |<img src="Preview/Template.png" width="164px" />|**Template**|Development Template to easily create a new Part|Yes
 |<img src="Preview/User.png" width="164px" />|**User**|Shows Username and Icon, configurable Text|No
 |<img src="Preview/Search.png" width="164px" />|**Search**|Lets you Search Google, opens browser with query|No
