@@ -1,5 +1,5 @@
 [Variables]
-Version=2.0
+Version=2.1
 MainLanguage=English
 Language=en-GB
 globalblurenable=0
@@ -15,14 +15,13 @@ DisplayAMPM=1
 TimeFormat=%H:%M
 Latitude=8.684170
 Padding=5
-Units=m
 Structure=Hillel
 
 
 [Default]
 FontColor=#textcolor2#,225
 FontFace=#ThemeFont#
-FontSize=(10)*#scaledpi#
+FontSize=(9)*#scaledpi#
 StringAlign=LEFT
 AntiAlias=1
 InlineSetting=Shadow | 1 | 1 | 2 | 0,0,0,255
@@ -31,7 +30,7 @@ MouseLeaveAction=[!SetOption #CURRENTSECTION# FontColor #textcolor2#,225][!SetOp
 
 [Small]
 FontColor=#textcolor2#,100
-FontSize=(8)*#scaledpi#
+FontSize=(7)*#scaledpi#
 InlineSetting=Shadow | 1 | 1 | 2 | 0,0,0,255
 MouseOverAction=[!SetOption #CURRENTSECTION# FontColor #textcolor2#,200][!Update]
 MouseLeaveAction=[!SetOption #CURRENTSECTION# FontColor #textcolor2#,100][!Update]
@@ -39,8 +38,8 @@ MouseLeaveAction=[!SetOption #CURRENTSECTION# FontColor #textcolor2#,100][!Updat
 
 [SmallIcon]
 MouseActionCursor=1
-w=(18)*#scaledpi#
-h=(18)*#scaledpi#
-x=(12)*#scaledpi#
+w=(16)*#scaledpi#
+h=(16)*#scaledpi#
+x=(10)*#scaledpi#
 y=(12)*#scaledpi#
 AntiAlias=1
