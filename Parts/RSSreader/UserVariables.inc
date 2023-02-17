@@ -11,3 +11,5 @@ RSS5=http://www.engadget.com/rss.xml
 RSS5Name=Engadget
 RSSMain=http://feeds.bbci.co.uk/news/rss.xml?edition=int
 RSSMainName=BBC
+
+IcoStyle=rss

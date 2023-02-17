@@ -14,8 +14,8 @@ Y=(5-#Padding#)
 W=(#Height#+(#Padding#*2))*#ScaleDpi#
 H=(#Height#+(#Padding#*2))*#ScaleDpi#
 solidcolor=0,0,0,1
-MouseOverAction=[!SetOption #CURRENTSECTION# solidcolor "255,255,255,20"][!UpdateMeter bg][!ShowMeter Down][!Redraw]
-MouseLeaveAction=[!SetOption #CURRENTSECTION# solidcolor "0,0,0,1"][!UpdateMeter bg][!HideMeter Down][!Redraw]
+MouseOverAction=[!SetOption #CURRENTSECTION# ImageName "#@#\Graphics\hover.png"][!SetOption #CURRENTSECTION# solidcolor "255,255,255,20"][!UpdateMeter bg][!ShowMeter Down][!Redraw]
+MouseLeaveAction=[!SetOption #CURRENTSECTION# ImageName "#@#\Graphics\separator.png"][!SetOption #CURRENTSECTION# solidcolor "0,0,0,1"][!UpdateMeter bg][!HideMeter Down][!Redraw]
 
 ScaleMargins=10,10,10,10
 

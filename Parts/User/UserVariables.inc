@@ -1,4 +1,4 @@
 [Variables]
 UserName=%USERNAME%
-UserPictureLocation=User.png
+UserPictureLocation=User2.png
 ShowWelcomeText=0

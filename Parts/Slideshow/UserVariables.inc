@@ -1,7 +1,7 @@
 [Variables]
 PicturesFolder=%USERPROFILE%\Pictures
 SlideshowSpeed=20
-Subfolders=0
+Subfolders=1
 open=["%USERPROFILE%\Pictures"]
 next=[!Refresh]
 Action=#open#
