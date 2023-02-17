@@ -16,7 +16,7 @@ You'll find almost every Part you may want:
 
 Preview|Name|Features|
 |-|-|-|
-|<img src="Previews/User.png" width="164px" />|**User**|Shows Username and Icon, configurable Text
+|<img src="Preview/User.png" width="164px" />|**User**|Shows Username and Icon, configurable Text
 
 ![Parts](https://github.com/fediaFedia/Longhorn/blob/main/preview-parts.png)
 
