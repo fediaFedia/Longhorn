@@ -7,7 +7,8 @@ Can't believe nobody made a proper Longhorn Sidebar for Rainmeter.
 So here it is! The Best Longhorn Sidebar you can have on Windows :)
 
 A modernized, yet nostalgic Sidebar with lots of great features and skins...
-It also uses like 40MB of RAM and 0-1% CPU on my Core i5 Laptop, can't say the same about most Sidebars.
+
+__It also uses like 40MB of RAM and 0-1% CPU on my Core i5 Laptop, can't say the same about most Sidebars.__
 
 # FEATURES IN 2.1:
 
