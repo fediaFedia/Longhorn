@@ -14,11 +14,31 @@ Some of the included Skins from the Classics:
 
 You'll find almost every Part you may want:
 
-Preview|Name|Features|
-|-|-|-|
-|<img src="Preview/User.png" width="164px" />|**User**|Shows Username and Icon, configurable Text
-
-![Parts](https://github.com/fediaFedia/Longhorn/blob/main/preview-parts.png)
+|<img src="Preview/Template.png" width="164px" />|**Template**|Development Template to easily create a new Part|Yes
+|<img src="Preview/User.png" width="164px" />|**User**|Shows Username and Icon, configurable Text|No
+|<img src="Preview/Search.png" width="164px" />|**Search**|Lets you Search Google, opens browser with query|No
+|<img src="Preview/MediaPlayer.gif" width="164px" />|**MediaPlayer**|Works with most Media Players, Configurable|Yes
+|<img src="Preview/Weather.png" width="164px" />|**Weather**|Configurable Weather, shows lots of info in Tooltip|Yes
+|<img src="Preview/RSS.png" width="164px" />|**RSS**|Shows XML RSS Feeds|Yes
+|<img src="Preview/Favorites.png" width="164px" />|**Favorites**|Configurable App / Website Launcher|Yes
+|<img src="Preview/Greeter.jpg" width="164px" />|**Greeter**|Changes depending time of the day, Configurable|No
+|<img src="Preview/Launcher.png" width="164px" />|**Launcher**|5 App Launcher, Configurable|No
+|<img src="Preview/Network.jpg" width="164px" />|**Network**|Shows Network Activity in a graph|No
+|<img src="Preview/CPU.jpg" width="164px" />|**CPU**|Shows CPU Activity|No
+|<img src="Preview/RAM.jpg" width="164px" />|**RAM**|Shows RAM Usage and Activity|No
+|<img src="Preview/Storage.jpg" width="164px" />|**Storage**|Shows selected Disk Usage|Yes
+|<img src="Preview/Visualizer.gif" width="164px" />|**Visualizer**|Animates to Music|Yes
+|<img src="Preview/Recycle Bin.jpg" width="164px" />|**Recycle Bin**|Shows Recycle Bin size|Yes
+|<img src="Preview/Shortcuts.jpg" width="164px" />|**Shortcuts**|Configurable 4 website launcher|No
+|<img src="Preview/Notes.jpg" width="164px" />|**Notes**|Simple Notes editor|Yes
+|<img src="Preview/Slideshow.png" width="164px" />|**Slideshow**|Configurable Slideshow, Shows and Opens Pictures|Yes
+|<img src="Preview/ToDo.png" width="164px" />|**ToDo**|Interactive ToDo Tile, Remembers Marked items as complete|Yes
+|<img src="Preview/Uptime.png" width="164px" />|**Uptime**|Shows PC Uptime, Right click lets you Shutdown, Sleep, etc|No
+|<img src="Preview/WorldClock.png" width="164px" />|**WorldClock**|Shows World Time, Configurable|Yes
+|<img src="Preview/Clock.png" width="164px" />|**Clock**|Shows the time...|Yes
+|<img src="Preview/Clock2.jpg" width="164px" />|**Clock2**|Shows the time... in another style|Yes
+|<img src="Preview/Clock3.jpg" width="164px" />|**Clock3**|Shows the time... in yet another style|Yes
+|<img src="Preview/MediaPlayerAlternative.png" width="164px" />|**MediaPlayerAlternative**|Same as Music Player|Yes
 
 - Ability to position on the Right or on the Left
 - Option to stay on top of other Windows (Reserve screen space)
