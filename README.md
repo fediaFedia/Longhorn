@@ -19,7 +19,7 @@ Preview|Name|Features|Alternatives
 |<img src="Preview/Search.png" width="164px" />|**Search**|Lets you Search Google, opens browser with query|No
 |<img src="Preview/MediaPlayer.gif" width="164px" />|**MediaPlayer**|Works with most Media Players, Configurable|Yes
 |<img src="Preview/Weather.png" width="164px" />|**Weather**|Configurable Weather, shows lots of info in Tooltip|Yes
-|<img src="Preview/RSS.jpg" width="164px" />|**RSS**|Shows XML RSS Feeds|Yes
+|<img src="Preview/RSS.png" width="164px" />|**RSS**|Shows XML RSS Feeds|Yes
 |<img src="Preview/Favorites.png" width="164px" />|**Favorites**|Configurable App / Website Launcher|Yes
 |<img src="Preview/Greeter.jpg" width="164px" />|**Greeter**|Changes depending time of the day, Configurable|No
 |<img src="Preview/Launcher.png" width="164px" />|**Launcher**|5 App Launcher, Configurable|No
@@ -70,7 +70,7 @@ Preview|Name|Features
 |<img src="Preview/ReserveScreenSpace.gif" width="300px" />|**Reserve Screen Space**|Included Utility lets you realistically reserve screen space for the Sidebar, does not run in Memory
 |<img src="Preview/TrayClock.gif" width="300px" />|**Tray Clock**|Clicking the lower Clock opens up the Classic Longhorn Calendar
 |<img src="Preview/AnimatedLogo.gif" width="300px" />|**Search**|Included the Animated Logo from the Longhorn Demo, you can put it anywhere on your Desktop or the Sidebar
-|<img src="Preview/BuildTag.gif" width="300px" />|**Build Tag**|Put a configurable Build tag on your Desktop
+|<img src="Preview/BuildTag.png" width="300px" />|**Build Tag**|Put a configurable Build tag on your Desktop
 |<img src="Preview/SidebarConfig.png" width="300px" />|**Search**|The sidebar has lots of configuration options
 
 
