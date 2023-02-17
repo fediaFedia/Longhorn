@@ -13,6 +13,11 @@ Some of the included Skins from the Classics:
 ![Skins](https://github.com/fediaFedia/Longhorn/blob/main/preview-skins.jpg)
 
 You'll find almost every Part you may want:
+
+Preview|Name|Features|
+|-|-|-|
+|<img src="Previews/User.png" width="164px" />|**User**|Shows Username and Icon, configurable Text
+
 ![Parts](https://github.com/fediaFedia/Longhorn/blob/main/preview-parts.png)
 
 - Ability to position on the Right or on the Left
