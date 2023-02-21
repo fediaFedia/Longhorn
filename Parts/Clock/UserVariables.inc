@@ -9,5 +9,6 @@ hidesecondhand=0
 ShowSecondsDot=1
 CityName1=LondonE
 CityZone1=0
-ClockStyle=Dark
+ClockStyle=PlexGrey
 ShowSeconds=60
+BigClockSize=1.5
