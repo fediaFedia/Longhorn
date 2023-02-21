@@ -10,6 +10,14 @@ A modernized, yet nostalgic Sidebar with lots of great features and skins...
 
 __It also uses like 40MB of RAM and 0-1% CPU on my Core i5 Laptop, can't say the same about most Sidebars.__
 
+# HOW TO INSTALL?
+
+1. Download https://www.rainmeter.net/
+2. Install Rainmeter 
+3. Download LonghornSidebar.rmskin from Releases and double click it
+
+Enjoy 
+
 # FEATURES IN 2.1:
 
 ## Parts / Widgets
