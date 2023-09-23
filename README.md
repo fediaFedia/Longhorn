@@ -80,9 +80,9 @@ Preview|Name|Features
 |-|-|-|
 |<img src="Preview/ReserveScreenSpace.gif" width="300px" />|**Reserve Screen Space**|Included Utility lets you realistically reserve screen space for the Sidebar, does not run in Memory
 |<img src="Preview/TrayClock.gif" width="300px" />|**Tray Clock**|Clicking the lower Clock opens up the Classic Longhorn Calendar
-|<img src="Preview/AnimatedLogo.gif" width="300px" />|**Search**|Included the Animated Logo from the Longhorn Demo, you can put it anywhere on your Desktop or the Sidebar
+|<img src="Preview/AnimatedLogo.gif" width="300px" />|**Animated Logo**|Included the Animated Logo from the Longhorn Demo, you can put it anywhere on your Desktop or the Sidebar
 |<img src="Preview/BuildTag.png" width="300px" />|**Build Tag**|Put a configurable Build tag on your Desktop
-|<img src="Preview/SidebarConfig.png" width="300px" />|**Search**|The sidebar has lots of configuration options
+|<img src="Preview/SidebarConfig.png" width="300px" />|**Configuration**|The sidebar has lots of configuration options
 
 
 BUGS & TRANSLATIONS
