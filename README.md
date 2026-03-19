@@ -18,7 +18,10 @@ __It also uses like 40MB of RAM and 0-1% CPU on my Core i5 Laptop, can't say the
 
 Enjoy 
 
-# FEATURES IN 2.1:
+# FEATURES IN 2.1.5:
+
+## Languages
+Now supporting German, French, Spanish, Portuguese, Russian
 
 ## Parts / Widgets
 You'll find almost every Part you may want:
@@ -50,6 +53,7 @@ Preview|Name|Features|Alternatives
 |<img src="Preview/Clock2.jpg" width="164px" />|**Clock2**|Shows the time... in another style|Yes
 |<img src="Preview/Clock3.jpg" width="164px" />|**Clock3**|Shows the time... in yet another style|Yes
 |<img src="Preview/MediaPlayerAlternative.png" width="164px" />|**MediaPlayerAlternative**|Same as Music Player|Yes
+|<img src="https://github.com/user-attachments/assets/4a1a8362-ff4e-4896-b615-d8ed56171a5c" width="164"/>|**Spotify**|Controls WebNowPlaying Spotify|Yes
 
 ----
 
