@@ -22,6 +22,7 @@ Enjoy
 
 ## Languages
 <img width="212" height="27" alt="image" src="https://github.com/user-attachments/assets/cf230313-c8f2-446b-b0dc-4e9c29f6aa8b" />
+
 Now supporting German, French, Spanish, Portuguese, Russian
 
 ## Parts / Widgets
