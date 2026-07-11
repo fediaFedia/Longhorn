@@ -3,6 +3,10 @@ Longhorn Sidebar for Rainmeter
 ![Preview](https://github.com/fediaFedia/Longhorn/blob/main/preview.jpg)
 
 ---------------
+<a href="https://github.com/fediaFedia/Windows-Sidebar"><img src="https://github.com/fediaFedia/Windows-Sidebar/raw/main/Preview/Main.png" width="256px" /></a>  
+<a href="https://github.com/fediaFedia/Windows-Sidebar"> Also check out the Windows (Vista & Betas, Win7) Sidebar!</a>
+
+---------------
 Can't believe nobody made a proper Longhorn Sidebar for Rainmeter.
 So here it is! The Best Longhorn Sidebar you can have on Windows :)
 
